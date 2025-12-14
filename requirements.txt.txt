@@ -1,0 +1,6 @@
+cryptography
+pyotp
+qrcode
+psutil
+PySide6
+requests

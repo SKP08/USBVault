@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# PyInstaller files
+build/
+dist/
+*.spec
+*.exe
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Runtime / sensitive data
+USBVaultTemp/
+*.enc
+*.key
+totp_setup.png
+
+# Logs
+logs.enc
